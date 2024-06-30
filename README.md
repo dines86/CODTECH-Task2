@@ -38,4 +38,14 @@ Based on the project the activities I performed:
    - The "Handoff" section suggests collaboration with developers. Designers can use this feature to share design specs, assets, and CSS code directly with the development team.
    - Key Activity: Collaborating with developers during the design-to-development handoff.
    - Technology: Collaboration tools integrated into design platforms.
-<img width="960" alt="Screenshot 2024-06-30 192039" src="https://github.com/dines86/CODTECH-Task2/assets/174235029/e0cdcd53-3735-4df8-8261-a748e38b629c">
+  
+When designing UI elements to convey app functionality and user interaction, I considered the following essential components:
+1.Buttons
+2.Text Fields
+3.Icons
+4.Navigation bars
+5.Images and Illustrations
+6.Feedback Elements
+7.Typography
+
+<img width="960" alt="Screenshot 2024-06-30 192039" src="https://github.com/dines86/CODTECH-Task2/assets/174235029/bf8657c9-cd47-4702-b4be-772fe5b30ea6">
