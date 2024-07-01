@@ -44,6 +44,7 @@ Based on the project the activities I performed:
    - Technology: Collaboration tools integrated into design platforms.
   
 When designing UI elements to convey app functionality and user interaction, I considered the following essential components:
+
 1.Buttons
 
 2.Text Fields
