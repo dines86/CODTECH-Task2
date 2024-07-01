@@ -1,7 +1,11 @@
 Name: Kondreddy Dinesh Reddy
+
 company:CODTECH IT SOLUTIONS
+
 ID: CT12DS1063
+
 Domain: UI/UX Design
+
 Duration: June to August 2024
 
 OVERVIEW of the project:
